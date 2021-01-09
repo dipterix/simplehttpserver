@@ -1,6 +1,6 @@
 # Simple Standalone HTTP Server
 
-Compiled standalone simple HTTP server via `python` and `py2exe`.
+Compiled standalone simple HTTP server. Automatically runs on modern Windows, no dependence required.
 
 ## How to use
 
